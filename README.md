@@ -1,5 +1,6 @@
 # Programmers
 solve a problem every day!
+▶[Tsoo's blog](https://blog.naver.com/fffff1014)
 
 - - -
 
