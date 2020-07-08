@@ -1,8 +1,6 @@
 # Programmers
 solve a problem every day!
 
-======================
-
 - - -
 
 ## Level1
