@@ -1,3 +1,5 @@
+#(1) 조이스틱
+
 def solution(name):
     answer = 0
     idx = 0
