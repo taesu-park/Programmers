@@ -1,5 +1,6 @@
-answer = 0
+#(3) 타겟 넘버
 
+answer = 0
 def dfs(numbers,target,n):
     global answer
     if n == len(numbers):
@@ -14,5 +15,3 @@ def solution(numbers, target):
     global answer
     dfs(numbers,target,0)
     return answer
-
-print(solution([1, 1],2))
