@@ -24,3 +24,4 @@ solve a problem every day!
 ## Level3
 
 1. [네트워크](https://tsoo1014.tistory.com/5?category=929916)[[코드]](https://github.com/taesu-park/Programmers/blob/master/level3/level3_ex01.py)
+2. [예산](https://tsoo1014.tistory.com/10?category=929916)[[코드]](https://github.com/taesu-park/Programmers/blob/master/level3/level3_ex02.py)
