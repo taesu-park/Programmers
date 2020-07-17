@@ -14,3 +14,17 @@ def solution(n, times):
         else:
             left = mid + 1
     return answer
+
+
+
+def reverse( x: int) -> int:
+    if x >= 0:
+        return int(str(x)[::-1])
+    else:
+        tmp = str(x)[1:]
+        tmp2 = tmp[::-1]
+        result = '-' + tmp2
+        return int(result)
+
+
+print(reverse(1230))
