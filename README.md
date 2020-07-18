@@ -18,6 +18,7 @@ solve a problem every day!
 5. [스킬트리](https://tsoo1014.tistory.com/7?category=929916)[[코드]](https://github.com/taesu-park/Programmers/blob/master/level2/level2_ex05.py)
 6. [멀쩡한 사각형](https://tsoo1014.tistory.com/8?category=929916)[[코드]](https://github.com/taesu-park/Programmers/blob/master/level2/level2_ex06.py)
 7. [라면공장](https://tsoo1014.tistory.com/9?category=929916)[[코드]](https://github.com/taesu-park/Programmers/blob/master/level2/level2_ex07.py)
+8. [튜플](https://tsoo1014.tistory.com/14?category=929916)[[코드]](https://github.com/taesu-park/Programmers/blob/master/level2/level2_ex08.py)
 
 - - -
 
