@@ -20,6 +20,7 @@ solve a problem every day!
 7. [라면공장 ](https://tsoo1014.tistory.com/9?category=929916)[[코드]](https://github.com/taesu-park/Programmers/blob/master/level2/level2_ex07.py)
 8. [튜플 ](https://tsoo1014.tistory.com/14?category=929916)[[코드]](https://github.com/taesu-park/Programmers/blob/master/level2/level2_ex08.py)
 9. [올바른 괄호](https://tsoo1014.tistory.com/16?category=929916) [[코드]](https://github.com/taesu-park/Programmers/blob/master/level2/level2_ex09.py)
+10. [다음 큰 숫자](https://tsoo1014.tistory.com/18?category=929916) [[코드]](https://github.com/taesu-park/Programmers/blob/master/level2/level2_ex10.py)
 
 - - -
 
