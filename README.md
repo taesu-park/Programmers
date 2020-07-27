@@ -24,6 +24,7 @@ solve a problem every day!
 11. [땅따먹기](https://tsoo1014.tistory.com/20?category=929916) [[코드]](https://github.com/taesu-park/Programmers/blob/master/level2/level2_ex11.py)
 12. [폰켓몬](https://tsoo1014.tistory.com/21?category=929916) [[코드]](https://github.com/taesu-park/Programmers/blob/master/level2/level2_ex12.py)
 13. [숫자의 표현](https://tsoo1014.tistory.com/24?category=929916) [[코드]](https://github.com/taesu-park/Programmers/blob/master/level2/level2_ex13.py)
+14. [최댓값과 최솟값](https://tsoo1014.tistory.com/26?category=929916)[[코드]](https://github.com/taesu-park/Programmers/blob/master/level2/level2_ex14.py)
 
 - - -
 
