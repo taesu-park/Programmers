@@ -26,6 +26,7 @@ solve a problem every day!
 13. [숫자의 표현](https://tsoo1014.tistory.com/24?category=929916) [[코드]](https://github.com/taesu-park/Programmers/blob/master/level2/level2_ex13.py)
 14. [최댓값과 최솟값](https://tsoo1014.tistory.com/26?category=929916)[[코드]](https://github.com/taesu-park/Programmers/blob/master/level2/level2_ex14.py)
 15. [최솟값 만들기](https://tsoo1014.tistory.com/27?category=929916) [[코드]](https://github.com/taesu-park/Programmers/blob/master/level2/level2_ex15.py)
+16. [피보나치수](https://tsoo1014.tistory.com/28?category=929916) [[코드]](https://github.com/taesu-park/Programmers/blob/master/level2/level2_ex16.py)
 
 - - -
 
