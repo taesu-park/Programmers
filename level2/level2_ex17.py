@@ -1,4 +1,4 @@
-#(17) 행렬의 곱셈
+#(17) 행렬의 곱
 
 def solution(arr1, arr2):
     answer = []
@@ -11,5 +11,3 @@ def solution(arr1, arr2):
             t.append(tmp)
         answer += [t]
     return answer
-
-print(solution([[1, 4], [3, 2], [4, 1]],[[3, 3], [3, 3]]))
