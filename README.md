@@ -29,6 +29,7 @@ solve a problem every day!
 16. [피보나치수](https://tsoo1014.tistory.com/28?category=929916) [[코드]](https://github.com/taesu-park/Programmers/blob/master/level2/level2_ex16.py)
 17. [행렬의 곱셈](https://tsoo1014.tistory.com/29?category=929916) [[코드]](https://github.com/taesu-park/Programmers/blob/master/level2/level2_ex17.py)
 18. [N개의 최소공배수](https://tsoo1014.tistory.com/30?category=929916) [[코드]](https://github.com/taesu-park/Programmers/blob/master/level2/level2_ex18.py)
+19. [JadenCase 문자열 만들기](https://tsoo1014.tistory.com/31?category=929916) [[코드]](https://github.com/taesu-park/Programmers/blob/master/level2/level2_ex19.py)
 
 - - -
 
