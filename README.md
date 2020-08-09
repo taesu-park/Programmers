@@ -31,6 +31,7 @@ solve a problem every day!
 18. [N개의 최소공배수](https://tsoo1014.tistory.com/30?category=929916) [[코드]](https://github.com/taesu-park/Programmers/blob/master/level2/level2_ex18.py)
 19. [JadenCase 문자열 만들기](https://tsoo1014.tistory.com/31?category=929916) [[코드]](https://github.com/taesu-park/Programmers/blob/master/level2/level2_ex19.py)
 20. [짝지어 제거하기](https://tsoo1014.tistory.com/32?category=929916) [[코드]](https://github.com/taesu-park/Programmers/blob/master/level2/level2_ex20.py)
+21. [소수만들기](https://tsoo1014.tistory.com/33?category=929916) [[코드]](https://github.com/taesu-park/Programmers/blob/master/level2/level2_ex21.py)
 
 - - -
 
