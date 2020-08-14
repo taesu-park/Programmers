@@ -33,6 +33,7 @@ solve a problem every day!
 20. [짝지어 제거하기](https://tsoo1014.tistory.com/32?category=929916) [[코드]](https://github.com/taesu-park/Programmers/blob/master/level2/level2_ex20.py)
 21. [소수만들기](https://tsoo1014.tistory.com/33?category=929916) [[코드]](https://github.com/taesu-park/Programmers/blob/master/level2/level2_ex21.py)
 22. [영어 끝말잇기](https://tsoo1014.tistory.com/34?category=929916) [[코드]](https://github.com/taesu-park/Programmers/blob/master/level2/level2_ex22.py)
+23. [점프와 순간 이동](https://tsoo1014.tistory.com/35?category=929916) [[코드]](https://github.com/taesu-park/Programmers/blob/master/level2/level2_ex23.py)
 
 - - -
 
