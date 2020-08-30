@@ -1,44 +1,31 @@
+#(3) 키패드 누르기
+
+def cal_dist(num, now_l, now_r, pos, hand):
+    dist_l = abs(pos[now_l][0] - pos[num][0]) + abs(pos[now_l][1] - pos[num][1])
+    dist_r = abs(pos[now_r][0] - pos[num][0]) + abs(pos[now_r][1] - pos[num][1])
+    if dist_l == dist_r:
+        return 'R' if hand == 'right' else 'L'
+    return 'R' if dist_l > dist_r else 'L'
+
 def solution(numbers, hand):
-    answer = ''
-    l_position, r_position = '*','#'
-    left, right, center= ['1','4','7','*'],['3','6','9','#'],['2','5','8','0']
-    l_index, r_index = 3, 3
-    for i in range(len(numbers)):
-        print(l_position,r_position,answer)
-        if str(numbers[i]) in left:
-            answer += 'L'
-            l_position = str(numbers[i])
-            l_index = left.index(str(numbers[i]))
-        elif str(numbers[i]) in right:
-            answer += 'R'
-            r_position = str(numbers[i])
-            r_index = right.index(str(numbers[i]))
+    position = {1:(0, 0), 2:(0, 1), 3:(0, 2),
+                4:(1, 0), 5:(1, 1), 6:(1, 2),
+                7:(2, 0), 8:(2, 1), 9:(2, 2),
+                '*':(3, 0), 0:(3, 1), '#':(3, 2)}
+    left, right = [1,4,7], [3,6,9]
+    now_l, now_r = '*', '#'
+    result = ''
+    for num in numbers:
+        if num in left:
+            result += 'L'
+            now_l = num
+        elif num in right:
+            result += 'R'
+            now_r = num
         else:
-            if l_position in center:
-                r_index += 1
-            elif r_position in center:
-                l_index += 1
-            if abs(center.index(str(numbers[i])) - l_index)> abs(center.index(str(numbers[i])) - r_index):
-                answer += 'R'
-                r_position = str(numbers[i])
-                r_index = center.index(str(numbers[i]))
-            elif abs(center.index(str(numbers[i])) - l_index) < abs(center.index(str(numbers[i])) - r_index):
-                answer += 'L'
-                l_position = str(numbers[i])
-                l_index = center.index(str(numbers[i]))
-            else:
-                if hand == 'right':
-                    answer += 'R'
-                    r_position = str(numbers[i])
-                    r_index = center.index(str(numbers[i]))
-                else:
-                    answer += 'L'
-                    l_position = str(numbers[i])
-                    l_index = center.index(str(numbers[i]))
-                    
-
-
-    return answer
-solution(
-[1, 3, 4, 5, 8, 2, 1, 4, 5, 9, 5],
-"right")
+            result += cal_dist(num, now_l, now_r, position, hand)
+            if result[-1] == 'L':
+                now_l = num
+            else :
+                now_r = num
+    return result
