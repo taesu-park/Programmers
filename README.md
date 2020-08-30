@@ -9,6 +9,7 @@ solve a problem every day!
 
 1. [비밀지도](https://tsoo1014.tistory.com/38?category=929916) [[코드]](https://github.com/taesu-park/Programmers/blob/master/level1/level1_ex01.py)
 2. [크레인 인형뽑기 게임](https://tsoo1014.tistory.com/39?category=929916) [[코드]](https://github.com/taesu-park/Programmers/blob/master/level1/level1_ex02.py)
+3. [키패드 누르기](https://tsoo1014.tistory.com/40?category=929916) [[코드]](https://github.com/taesu-park/Programmers/blob/master/level1/level1_ex03.py)
 
 - - -
 
