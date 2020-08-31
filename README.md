@@ -40,6 +40,7 @@ solve a problem every day!
 23. [점프와 순간 이동](https://tsoo1014.tistory.com/35?category=929916) [[코드]](https://github.com/taesu-park/Programmers/blob/master/level2/level2_ex23.py)
 24. [예상 대진표](https://tsoo1014.tistory.com/36?category=929916) [[코드]](https://github.com/taesu-park/Programmers/blob/master/level2/level2_ex24.py)
 25. [가장 큰 정사각형 찾기](https://tsoo1014.tistory.com/37?category=929916) [[코드]](https://github.com/taesu-park/Programmers/blob/master/level2/level2_ex25.py)
+26. [캐시](https://tsoo1014.tistory.com/41?category=929916) [[코드]](https://github.com/taesu-park/Programmers/blob/master/level2/level2_ex26.py)
 
 - - -
 
