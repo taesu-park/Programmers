@@ -42,6 +42,7 @@ solve a problem every day!
 25. [가장 큰 정사각형 찾기](https://tsoo1014.tistory.com/37?category=929916) [[코드]](https://github.com/taesu-park/Programmers/blob/master/level2/level2_ex25.py)
 26. [캐시](https://tsoo1014.tistory.com/41?category=929916) [[코드]](https://github.com/taesu-park/Programmers/blob/master/level2/level2_ex26.py)
 27. [후보키*](https://tsoo1014.tistory.com/42?category=929916) [[코드]]((https://github.com/taesu-park/Programmers/blob/master/level2/level2_ex27.py))
+28. [n진수 게임](https://tsoo1014.tistory.com/43?category=929916) [[코드]]((https://github.com/taesu-park/Programmers/blob/master/level2/level2_ex28.py))
 
 - - -
 
