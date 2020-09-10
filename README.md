@@ -44,6 +44,7 @@ solve a problem every day!
 27. [후보키*](https://tsoo1014.tistory.com/42?category=929916) [[코드]]((https://github.com/taesu-park/Programmers/blob/master/level2/level2_ex27.py))
 28. [n진수 게임](https://tsoo1014.tistory.com/43?category=929916) [[코드]]((https://github.com/taesu-park/Programmers/blob/master/level2/level2_ex28.py))
 29. [압축](https://tsoo1014.tistory.com/44?category=929916) [[코드]]((https://github.com/taesu-park/Programmers/blob/master/level2/level2_ex29.py))
+30. [방금그곡](https://tsoo1014.tistory.com/45?category=929916) [[코드]]((https://github.com/taesu-park/Programmers/blob/master/level2/level2_ex30.py))
 
 - - -
 
